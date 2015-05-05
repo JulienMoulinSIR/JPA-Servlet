@@ -29,9 +29,9 @@ La base de donnée utilisée durant le développement était hébergé en locale
             -- index.html
 
 Pour peupler la base :
-    run JpaTest.java
+     `run JpaTest.java`
 
 Pour lancer l'application : 
-    tomcat7:run
+     `tomcat7:run`
 
-Une fois démarrer, l'application est disponible à l'adresse http://localhost:8080/
+Une fois démarrer, l'application est disponible à l'adresse  `http://localhost:8080/`
